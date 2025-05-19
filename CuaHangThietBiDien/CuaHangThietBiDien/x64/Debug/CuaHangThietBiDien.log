@@ -1,0 +1,15 @@
+﻿  CuaHang.cpp
+  HoaDoncpp.cpp
+  KhachHang.cpp
+  main.cpp
+  MayLanh.cpp
+  MayQuat.cpp
+  ThietBiDienTu.cpp
+E:\Năm 1\OOP\CuaHangThietBiDien\CuaHangThietBiDien\MayQuat.cpp(5,15): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+E:\Năm 1\OOP\CuaHangThietBiDien\CuaHangThietBiDien\MayQuat.cpp(5,15): warning C4305:         with
+E:\Năm 1\OOP\CuaHangThietBiDien\CuaHangThietBiDien\MayQuat.cpp(5,15): warning C4305:         [
+E:\Năm 1\OOP\CuaHangThietBiDien\CuaHangThietBiDien\MayQuat.cpp(5,15): warning C4305:             _Elem=char
+E:\Năm 1\OOP\CuaHangThietBiDien\CuaHangThietBiDien\MayQuat.cpp(5,15): warning C4305:         ]
+E:\Năm 1\OOP\CuaHangThietBiDien\CuaHangThietBiDien\MayQuat.cpp(5,15): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  CuaHangThietBiDien.vcxproj -> E:\Năm 1\OOP\CuaHangThietBiDien\x64\Debug\ThietBiDien.exe
