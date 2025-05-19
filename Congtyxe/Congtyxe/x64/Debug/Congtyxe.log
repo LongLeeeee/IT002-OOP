@@ -1,0 +1,9 @@
+﻿  CongTyXeMay.cpp
+  Dongco.cpp
+  BanhXe.cpp
+C:\Users\LONG\OneDrive - Trường ĐH CNTT - University of Information Technology\OOP\Congtyxe\Congtyxe\Dongco.cpp(34,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Khungxe.cpp
+  main.cpp
+  Xemay.cpp
+  Generating Code...
+  Congtyxe.vcxproj -> C:\Users\LONG\OneDrive - Trường ĐH CNTT - University of Information Technology\OOP\Congtyxe\x64\Debug\Congtyxe.exe
